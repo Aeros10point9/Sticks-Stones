@@ -23,10 +23,10 @@ This server will go through periodic patches and updates. **Please be aware that
 
 First and foremost, see how much RAM you have allocated to the server. Base level is set at 4G, but it is recommended to have at least 8G.
   
-If you are finding that your computer is having a difficult time with fps or performance even with more RAM allocated, and it isn't server related, there are a few mods that you can remove that are purely client side. (The most impactful to performance in order)
+If you are finding that your computer is having a difficult time with fps or performance even with more RAM allocated, and it isn't server related, there are a few mods that you can remove that are purely client side. (The most impactful to performance in order)  
 These include:  
 1. Grassier Grass (found in the mod folder, not visible via curseforge)  
-2. Particle Raing  
+2. Particle Rain  
 3. Not enough animations  
 3. Skin layers 3D  
   
