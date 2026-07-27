@@ -19,5 +19,18 @@ Contact server owner for final step. They will give you a key.
 
 This server will go through periodic patches and updates. **Please be aware that if you have server connectivity issues review if you need to recommit to a new Zip download and follow the server access steps again.**
 
+## Optimization
+
+First and foremost, see how much RAM you have allocated to the server. Base level is set at 4G, but it is recommended to have at least 8G.
+  
+If you are finding that your computer is having a difficult time with fps or performance even with more RAM allocated, and it isn't server related, there are a few mods that you can remove that are purely client side. (The most impactful to performance in order)
+These include:  
+1. Grassier Grass (found in the mod folder, not visible via curseforge)  
+2. Particle Raing  
+3. Not enough animations  
+3. Skin layers 3D  
+  
+If you want to remove mods that you find unnecessary or causing issues please only remove those that are client based shown in curseforge. And please do 1 at a time and test joinability to the server. Editing mods in the pack can brick your profile, so beware.
+
 ## Feedback
 **This is a work in progress, and if you find a bug, issue, or something that needs re-balancing please reach out to the server owner, thank you!**
